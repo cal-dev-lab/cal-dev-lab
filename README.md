@@ -1,6 +1,6 @@
 # Nice to see you!
 - 👋 Hi, I’m @cal-dev-lab
-- 👀 I’m interested in HTML, CSS, JavaScript, ReactJS, NextJS, TailwindCSS
+- 👀 I’m interested in ReactJS, NextJS and SwiftUI
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on my NextJS blog
 - 📫 How to reach me: hi@c-l.dev
