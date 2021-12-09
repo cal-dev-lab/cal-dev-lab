@@ -1,4 +1,4 @@
-# Hello World!
+# Welcome to my dev lab!
 - 👋 Hi, I’m @cal-dev-lab
 - 👀 I’m interested in ReactJS, NextJS and SwiftUI
 - 🌱 I’m currently learning NextJS and Strapi
