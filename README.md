@@ -1,7 +1,7 @@
 # Welcome to my dev lab!
 - 👋 Hi, I’m @cal-dev-lab
-- 👀 I’m interested in ReactJS, NextJS and SwiftUI
-- 🌱 I’m currently learning NextJS and Strapi
+- 👀 I’m interested in VueJS, ReactJS, NextJS and SwiftUI
+- 🌱 I’m currently learning VueJS
 - 💞️ I’m looking to collaborate on my NextJS blog
 - 📫 How to reach me: hi@c-l.dev
 
