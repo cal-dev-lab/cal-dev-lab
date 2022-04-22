@@ -6,7 +6,7 @@ From a young age I have always been found to teaching myself new skills. During 
 <br />
 * 🌍  I'm based in Cannock, West Midlands
 <br />
-* 🖥️  See my portfolio at <a href="https://behance.net/callumlees">Behance/a>
+* 🖥️  See my portfolio at <a href="https://behance.net/callumlees">Behance</a>
 <br />
 * ✉️  You can contact me at <a href="mailto:dev.cal.lees@gmail.com">dev.cal.lees@gmail.com</a>
 <br />
