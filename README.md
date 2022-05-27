@@ -13,8 +13,6 @@ From a young age I have always been found to be teaching myself new skills. Duri
 * 🧠  I'm learning Vue 3.0
 <br />
 * 🤝  I'm open to collaborating on React projects
-<br />
-* ⚡  Cute cat videos are my go to 🥹
 
 ### Skills
 
