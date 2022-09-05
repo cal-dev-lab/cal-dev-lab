@@ -10,7 +10,7 @@ From a young age I have always been found to be teaching myself new skills. Duri
 <br />
 * ✉️  You can contact me at <a href="mailto:dev.cal.lees@gmail.com">dev.cal.lees@gmail.com</a>
 <br />
-* 🧠  I'm learning Vue 3.0
+* 🧠  I'm learning VueJS and NuxtJS
 <br />
 * 🤝  I'm open to collaborating on React projects
 
