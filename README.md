@@ -1,5 +1,5 @@
 # Hi 👋 My name is Callum Lees
-## Front-end Web Developer
+## Front-End Web Developer
 <br />
 From a young age I have always been found to be teaching myself new skills. During my time learning, I have discovered my passion for front-end web development. Alongside development, I also have a passion for music, drumming, photography and graphic design.
 <br />
