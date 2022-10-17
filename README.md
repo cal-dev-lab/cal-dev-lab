@@ -33,7 +33,6 @@
   <a target="_blank" href="https://ibb.co/gjRrfjT"><img src="https://i.ibb.co/6nWyTnP/learn-html-1.jpg" alt="learn-html-1" border="0" width="150" height="auto"></a>
   <a target="_blank" href="https://ibb.co/dJZxMcT"><img src="https://i.ibb.co/bRtDm30/learn-javascript-1.jpg" alt="learn-javascript-1" border="0" width="150" height="auto"></a>
   <a target="_blank" href="https://ibb.co/wJTSZ5s"><img src="https://i.ibb.co/bHxsjcJ/learn-responsive-design-1.jpg" alt="learn-responsive-design-1" border="0" width="150" height="auto"></a>
-  <a target="_blank" href="https://ibb.co/wJTSZ5s"><img src="https://i.ibb.co/bHxsjcJ/learn-responsive-design-1.jpg" alt="learn-responsive-design-1" border="0" width="150" height="auto"></a>
   <a target="_blank" href="https://ibb.co/W65gqJC"><img src="https://i.ibb.co/W65gqJC/async-js-1.jpg" alt="async-js-1" border="0" width="150" height="auto"></a>
 </div>
 
