@@ -27,7 +27,7 @@
 
 ## My Certificates
 
-<div style="display: block;" align="center">
+<div style="display: flex;" align="center">
   <a target="_blank" href="https://ibb.co/HgygYrG"><img src="https://i.ibb.co/JkTk2zr/code-foundations-1.jpg" alt="code-foundations-1" border="0" width="150" height="auto"></a>
   <a target="_blank" href="https://ibb.co/M79MGT6"><img src="https://i.ibb.co/JHC5yLQ/how-to-code-1.jpg" alt="how-to-code-1" border="0" width="150" height="auto"></a>
   <a target="_blank" href="https://ibb.co/gjRrfjT"><img src="https://i.ibb.co/6nWyTnP/learn-html-1.jpg" alt="learn-html-1" border="0" width="150" height="auto"></a>
