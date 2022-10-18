@@ -36,6 +36,7 @@
   <a target="_blank" href="https://ibb.co/W65gqJC"><img src="https://i.ibb.co/Tk2mp3y/async-js-1.jpg" alt="async-js-1" border="0" width="300" height="auto"></a>
   <a target="_blank" href="https://ibb.co/TT3jF43"><img src="https://i.ibb.co/6ZC9fHC/intermediate-js-1.jpg" alt="intermediate-js-1" border="0" width="300" height="auto"></a>
   <a target="_blank" href="https://ibb.co/Mfq0JgY"><img src="https://i.ibb.co/f9mwTXh/front-to-back-end-1.jpg" alt="front-to-back-end-1" border="0" width="300" height="auto"></a>
+  <a target="_blank" href="https://ibb.co/BTRPzPg"><img src="https://i.ibb.co/1Rxnvn9/node-js-1.jpg" alt="node-js-1" border="0" width="300" height="auto"></a>
 </div>
 
 <br />
