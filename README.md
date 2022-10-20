@@ -38,6 +38,7 @@
   <a target="_blank" href="https://ibb.co/Mfq0JgY"><img src="https://i.ibb.co/f9mwTXh/front-to-back-end-1.jpg" alt="front-to-back-end-1" border="0" width="300" height="auto"></a>
   <a target="_blank" href="https://ibb.co/BTRPzPg"><img src="https://i.ibb.co/1Rxnvn9/node-js-1.jpg" alt="node-js-1" border="0" width="300" height="auto"></a>
   <a target="_blank" href="https://ibb.co/yf5C1Lf"><img src="https://i.ibb.co/j6GY276/design-thinking-ideation-1.jpg" alt="design-thinking-ideation-1" border="0" width="300" height="auto"></a>
+  <a target="_blank" href="https://ibb.co/gzgqF8r"><img src="https://i.ibb.co/V2BnpGL/learn-react-1.jpg" alt="learn-react-1" border="0" width="300" height="auto"></a>
 </div>
 
 <br />
