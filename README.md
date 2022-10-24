@@ -6,7 +6,7 @@
 # <div align="center">I'm Callum, a full-time front-end developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on [Plantesk - SvelteKit](https://github.com/cal-dev-lab/plantesk-sveltekit)  
+- 🔭 I’m currently working on [tech-blog-react-js](https://github.com/cal-dev-lab/tech-blog-reactjs)  
   
 
 - 🌱 I’m currently learning TypeScript and Python  
