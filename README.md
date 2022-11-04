@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [tech-blog-react-js](https://github.com/cal-dev-lab/tech-blog-reactjs)  
   
 
-- 🌱 I’m currently learning TypeScript and Python  
+- 🌱 I’m currently learning PHP and Docker
   
 
 - ❓ Ask me about anything related to tech!  
