@@ -44,7 +44,6 @@
   <a target="_blank" href="https://ibb.co/6NvHCPc"><img src="https://i.ibb.co/V3Hg4S0/css-page-0001.jpg" alt="css" border="0" width="300" height="auto"></a>
   <a target="_blank" href="https://ibb.co/SrPjBW4"><img src="https://i.ibb.co/PQNLg3v/react-hooks-page-0001.jpg" alt="react-hooks" border="0" width="300" height="auto"></a>
   <a target="_blank" href="https://ibb.co/pJrxRTm"><img src="https://i.ibb.co/SR7PdgL/react-router-page-0001.jpg" alt="react-router-page-0001" border="0" width="300" height="auto"></a>
-  <a target="_blank" href="https://ibb.co/RbQNnpd"><img src="https://i.ibb.co/RbQNnpd/react-state-management-page-0001.jpg" alt="react-state-management" border="0" width="300" height="auto"></a>
 </div>
 
 <br />
