@@ -46,6 +46,7 @@
   <a target="_blank" href="https://ibb.co/pJrxRTm"><img src="https://i.ibb.co/SR7PdgL/react-router-page-0001.jpg" alt="react-router-page-0001" border="0" width="300" height="auto"></a>
   <a target="_blank" href="https://ibb.co/RbQNnpd"><img src="https://i.ibb.co/8sPb3Dt/react-state-management-page-0001.jpg" alt="react-state-management" border="0" width="300" height="auto"></a>
   <a target="_blank" href="https://ibb.co/RgFfrhp"><img src="https://i.ibb.co/8mCqvzD/react-lifecycle-methods-page-0001.jpg" alt="react-lifecycle-methods" border="0" width="300" height="auto"></a>
+  <a target="_blank" href="https://ibb.co/mSnFwRG"><img src="https://i.ibb.co/zN3HYmr/react-additional-basics-page-0001.jpg" alt="react-additional-basics-page-0001" border="0" width="300" height="auto"></a>
 </div>
 
 <br />
