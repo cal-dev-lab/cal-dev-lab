@@ -6,10 +6,10 @@
 # <div align="center">I'm Callum, a full-time front-end developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on [tech-blog-react-js](https://github.com/cal-dev-lab/tech-blog-reactjs)  
+- 🔭 I’m currently working on [gymr-next](https://github.com/cal-dev-lab/gymr-next)  
   
 
-- 🌱 I’m currently learning PHP and Docker
+- 🌱 I’m currently learning more about Vim
   
 
 - ❓ Ask me about anything related to tech!  
