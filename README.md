@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [gymr-next](https://github.com/cal-dev-lab/gymr-next)  
   
 
-- 🌱 I’m currently learning more about Vim
+- 🌱 I’m currently learning more about Go (GoLang)
   
 
 - ❓ Ask me about anything related to tech!  
